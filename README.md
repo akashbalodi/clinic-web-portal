@@ -24,5 +24,5 @@ A full-stack web portal for appointment booking, inquiry handling and admin mana
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/clinic-web-portal.git
+git clone https://github.com/akashbalodi/clinic-web-portal.git
 cd clinic-web-portal
